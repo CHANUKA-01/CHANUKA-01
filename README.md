@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHANUKA JAYAWARDHANA</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka-01&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka-01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chanuka-01&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka-01" /> </p>
 
 - 🔭 I’m currently working on **Fuel system and car reservation management system**
 
