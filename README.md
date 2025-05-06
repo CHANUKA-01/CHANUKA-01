@@ -3,9 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanuka-01&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka-01" /> </p>
 
----
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🔭 I’m currently working on **Fuel system and car reservation management system**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 🌱 I’m currently learning **Java**
 
